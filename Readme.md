@@ -26,7 +26,7 @@ Demo Using json layout with log4j 1.x. (confluent node) and log4j2 (custom java 
 - `confluent/fluentd-daemonset.yaml`: DaemonSet for Fluentd.
 - `confluent/kibana.yml`: Kibana configuration.
 - `confluent/fluentd-configmap.yaml`: ConfigMap for Fluentd configuration.
-
+  ![Scenario 2](images/scenario2.png)
 ## Details
 
 ### Java Client Application (log4j2 Scenario)
