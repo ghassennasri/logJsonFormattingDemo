@@ -1,0 +1,1122 @@
+Info: Iteration 0
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 1
+Info: Iteration 2
+Info: Iteration 3
+Info: Iteration 4
+Info: Iteration 5
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 6
+Info: Iteration 7
+Info: Iteration 8
+Info: Iteration 9
+Info: Iteration 10
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 11
+Info: Iteration 12
+Info: Iteration 13
+Info: Iteration 14
+Info: Iteration 15
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 16
+Info: Iteration 17
+Info: Iteration 0
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 1
+Info: Iteration 2
+Info: Iteration 3
+Info: Iteration 4
+Info: Iteration 5
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 6
+Info: Iteration 7
+Info: Iteration 8
+Info: Iteration 9
+Info: Iteration 10
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 11
+Info: Iteration 12
+Info: Iteration 13
+Info: Iteration 14
+Info: Iteration 15
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 16
+Info: Iteration 17
+Info: Iteration 18
+Info: Iteration 19
+Info: Iteration 20
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 21
+Info: Iteration 22
+Info: Iteration 23
+Info: Iteration 24
+Info: Iteration 25
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 26
+Info: Iteration 27
+Info: Iteration 28
+Info: Iteration 29
+Info: Iteration 30
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 31
+Info: Iteration 32
+Info: Iteration 33
+Info: Iteration 34
+Info: Iteration 35
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 36
+Info: Iteration 37
+Info: Iteration 38
+Info: Iteration 39
+Info: Iteration 40
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 41
+Info: Iteration 42
+Info: Iteration 43
+Info: Iteration 44
+Info: Iteration 45
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 46
+Info: Iteration 47
+Info: Iteration 48
+Info: Iteration 49
+Info: Iteration 50
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 51
+Info: Iteration 52
+Info: Iteration 53
+Info: Iteration 54
+Info: Iteration 55
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 56
+Info: Iteration 57
+Info: Iteration 58
+Info: Iteration 59
+Info: Iteration 60
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 61
+Info: Iteration 62
+Info: Iteration 63
+Info: Iteration 64
+Info: Iteration 0
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 1
+Info: Iteration 2
+Info: Iteration 3
+Info: Iteration 4
+Info: Iteration 5
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 6
+Info: Iteration 7
+Info: Iteration 8
+Info: Iteration 9
+Info: Iteration 10
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 11
+Info: Iteration 12
+Info: Iteration 13
+Info: Iteration 14
+Info: Iteration 15
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 16
+Info: Iteration 17
+Info: Iteration 18
+Info: Iteration 19
+Info: Iteration 20
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 21
+Info: Iteration 22
+Info: Iteration 23
+Info: Iteration 24
+Info: Iteration 25
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 26
+Info: Iteration 27
+Info: Iteration 28
+Info: Iteration 29
+Info: Iteration 30
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 31
+Info: Iteration 32
+Info: Iteration 33
+Info: Iteration 34
+Info: Iteration 35
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 36
+Info: Iteration 37
+Info: Iteration 38
+Info: Iteration 39
+Info: Iteration 40
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 41
+Info: Iteration 42
+Info: Iteration 43
+Info: Iteration 44
+Info: Iteration 45
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 46
+Info: Iteration 47
+Info: Iteration 48
+Info: Iteration 49
+Info: Iteration 50
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 51
+Info: Iteration 52
+Info: Iteration 53
+Info: Iteration 54
+Info: Iteration 55
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 56
+Info: Iteration 57
+Info: Iteration 58
+Info: Iteration 59
+Info: Iteration 60
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 61
+Info: Iteration 62
+Info: Iteration 63
+Info: Iteration 64
+Info: Iteration 65
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 0
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 1
+Info: Iteration 2
+Info: Iteration 3
+Info: Iteration 4
+Info: Iteration 5
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 6
+Info: Iteration 7
+Info: Iteration 8
+Info: Iteration 9
+Info: Iteration 10
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 11
+Info: Iteration 12
+Info: Iteration 0
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 1
+Info: Iteration 2
+Info: Iteration 3
+Info: Iteration 4
+Info: Iteration 5
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 6
+Info: Iteration 7
+Info: Iteration 8
+Info: Iteration 9
+Info: Iteration 10
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 11
+Info: Iteration 12
+Info: Iteration 13
+Info: Iteration 14
+Info: Iteration 15
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 16
+Info: Iteration 17
+Info: Iteration 18
+Info: Iteration 19
+Info: Iteration 20
+An error occurred
+java.lang.RuntimeException: Exception at recursion depth
+	at org.example.Main.recursiveMethod(Main.java:42) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.recursiveMethod(Main.java:44) ~[main/:?]
+	at org.example.Main.main(Main.java:20) ~[main/:?]
+Info: Iteration 21
+Info: Iteration 22
+Info: Iteration 23

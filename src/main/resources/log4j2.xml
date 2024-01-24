@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <Console name="Console" class="org.apache.logging.log4j.core.appender.ConsoleAppender">
+
+
+            <JsonLayout compact="true" eventEol="true"/>
+        </Console>
+        <File name="File" fileName="ConsumerReproExamples.log">
+
+            <JsonLayout compact="true" eventEol="true"/>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="INFO">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+        </Root>
+
+
+
+    </Loggers>
+</Configuration>
